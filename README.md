@@ -1,87 +1,153 @@
-<!-- HEADER -->
-
-<h1 align="center">Hi 👋, I'm Rituraj Paul</h1>
-<h3 align="center">Aspiring AWS Solutions Architect | Cybersecurity Enthusiast</h3>
-
+```{=html}
+<h1 align="center">
+```
+Hey guys, I'm Rituraj Paul, and I build scalable, secure systems with cloud and AI
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Aspiring AWS Solutions Architect \| Cybersecurity Enthusiast
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hercules-17&label=Profile%20Views&color=0e75b6&style=flat" />
+```
+`<img src="https://komarev.com/ghpvc/?username=Hercules-17&label=Profile%20Views&color=0e75b6&style=flat" />`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 ## 🚀 About Me
 
-* ☁️ Aspiring **AWS Solutions Architect** focused on building scalable and secure cloud systems
-* 🛡️ Cybersecurity enthusiast with hands-on experience in **SIEM, log analysis, and threat detection**
-* 🤖 Currently developing **Smart Harmony** — an AI-powered IoT home automation system
-* 🎯 Passionate about solving real-world problems using **Cloud + AI + Security**
+-   ☁️ Aspiring **AWS Solutions Architect** focused on building scalable
+    and secure cloud systems\
+-   🛡️ Cybersecurity enthusiast with hands-on experience in **SIEM,
+    threat detection, and log analysis**\
+-   🤖 Developing **Smart Harmony** --- an AI-powered IoT home
+    automation system\
+-   🎯 Passionate about solving real-world problems using **Cloud + AI +
+    Security**
 
----
+------------------------------------------------------------------------
 
-## ⚡ What Sets Me Apart
+## 🏆 Achievements
 
-* 🔗 Strong combination of **Cloud + Cybersecurity + AI**
-* 🧠 Hands-on experience with **real-world, production-like projects**
-* 👨‍💼 Leadership experience as **President, ACM Student Chapter**
-* 🚀 Quick learner with a focus on **practical implementation over theory**
+-   🥇 **Best Project Award** --- Smart Harmony (2025)\
+-   🛰️ **ISRO Young Scientist Program Award** (2019)\
+-   🎓 **NPTEL Certification** --- Python for Data Science (IITs &
+    IISc)\
+-   👨‍💼 **President**, ACM Student Chapter & Amity AI Club **[AAIC]**\
+-   🥈 Academic Excellence --- NCO (98%), NSO (92%)
 
----
+------------------------------------------------------------------------
 
-## 🛠️ Technical Skills
+## 🤝 Collaboration Interests
 
-**Languages:**
-`Java` `Python` `C++`
+-   Open-source **cybersecurity tools**\
+-   **Cloud-native & DevOps projects**\
+-   **AI/ML-based real-world applications**
 
-**Cloud & DevOps:**
-`AWS` `Docker`
+------------------------------------------------------------------------
 
-**Databases:**
-`MySQL` `MongoDB`
+## 🛠️ Currently Exploring
 
-**Cybersecurity:**
-`SIEM` `Vulnerability Assessment` `SSL/TLS` `Log Analysis`
+- Implementation of **secure cloud architectures on AWS (IAM, VPC, logging & monitoring)**
+- Strengthening **threat detection and log analysis using SIEM-based approaches**
+- Developing **containerized applications with Docker and cloud deployment workflows**
 
-**Web:**
-`HTML` `CSS`
+------------------------------------------------------------------------
 
----
+## 🌱 Learning Focus
 
-## 🚀 Projects
+-   **AI agents & LLM-based automation systems**\
+-   **AWS architecture & cloud engineering**\
+-   **System design & scalable backend systems**
 
-### 🔹 Smart Harmony
+------------------------------------------------------------------------
 
-AI + IoT based home automation system with personalization and security
+## 💬 Ask Me About
 
-* ESP32, Sensors, Blynk, HuskyLens
-* Focus on energy efficiency and intelligent automation
+-   Cybersecurity tools & fundamentals\
+-   Cloud (AWS, Docker, deployments)\
+-   IoT + AI systems (Smart Harmony)\
+-   Elasticsearch & logging pipelines
 
-### 🔹 Chatbot using Python
+------------------------------------------------------------------------
 
-Rule-based chatbot system
+## ⚡ Fun Fact
 
-* Improved response accuracy by 40%
-* Focus on conversational logic
+> Sci-fi movies feel less like fiction and more like future deadlines, haha!
 
----
+------------------------------------------------------------------------
+
+## 🌐 Connect With Me
+
+```{=html}
+<p align="center">
+```
+`<a href="https://linkedin.com/in/rituraj-paul-153a53262">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
+`</a>`{=html} `<a href="mailto:riturajofficial17@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=aws,docker,python,java,cpp,mysql,mongodb,linux,html,css" />`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hercules-17&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hercules-17&theme=tokyonight&hide_border=true" height="160"/>
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=Hercules-17&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>`{=html}
+`<img src="https://streak-stats.demolab.com/?user=Hercules-17&theme=tokyonight&hide_border=true" height="160"/>`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hercules-17&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
 ## 💼 Open to Opportunities
 
-* 🚀 Roles: **Cloud Engineer | AWS Solutions Architect | Cybersecurity Analyst**
-* 💡 Strength: **Cloud + Security + Real-world Projects**
-* 📩 Email: **[riturajofficial17@gmail.com](mailto:riturajofficial17@gmail.com)**
-* 🔗 LinkedIn: https://linkedin.com/in/rituraj-paul-153a53262
+-   🚀 Roles: **Cloud Engineer \| AWS Solutions Architect \|
+    Cybersecurity Analyst**\
+-   💡 Strength: **Cloud + Security + Real-world Projects**\
+-   📩 Email: **riturajofficial17@gmail.com**
 
----
+------------------------------------------------------------------------
 
-## ⚡ Final Note
+## ✍️ Dev Quote
 
-I focus on building systems that are not just functional, but **scalable, secure, and production-ready**.
+```{=html}
+<p align="center">
+```
+`<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
